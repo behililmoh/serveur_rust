@@ -1,0 +1,9 @@
+[package]
+name = "shering_rus"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4.0"
+if-addrs = "0.14.0"
+qrcode-generator ="5.0.0"
